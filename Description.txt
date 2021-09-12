@@ -1,0 +1,10 @@
+Author :  Talha Kilic <mntalha>
+
+<September 10 2021>
+
+Purpose : Histogram equalization consists of 2 way  which are traditional and modern. 
+
+In this repo it will be explained the underlying logic and compared .
+
+Finally , it will be defined the best way among the shown technics by investigating the comparisons.
+
